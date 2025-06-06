@@ -37,9 +37,14 @@
 3. 选择模板页中要删除的对象名，默认删除全部对象则回车
 4. 已批量删除打开文件路径~
 5. 随时按下 Ctrl+C 退出软件！
+6. 参数说明见图二（给出例子）！
 
 <p align="center">
   <img src="images/demo.png" alt="软件界面" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="images/demo2.png" alt="参数说明" width="80%"/>
 </p>
 
 ## 🤗 代码编译
