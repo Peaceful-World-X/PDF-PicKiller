@@ -1,0 +1,4 @@
+pikepdf
+pyfiglet
+colorama
+rich
