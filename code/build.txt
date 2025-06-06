@@ -1,0 +1,10 @@
+Python 3.10
+
+python -m venv myenv
+myenv\Scripts\activate
+pip install -r requirements.txt
+pip install pyinstaller
+
+pyinstaller -i icon.ico --hidden-import=pikepdf --hidden-import=pyfiglet --hidden-import=colorama --hidden-import=rich --collect-all=pikepdf --collect-all=pyfiglet --collect-all=colorama --collect-all=rich PDF_PicKiller.py
+
+pyinstaller -i icon.ico --hidden-import=pikepdf --hidden-import=pyfiglet --hidden-import=colorama --hidden-import=rich --collect-all=pikepdf --collect-all=pyfiglet --collect-all=colorama --collect-all=rich --onefile PDF_PicKiller.py
