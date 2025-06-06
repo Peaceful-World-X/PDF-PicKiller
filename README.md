@@ -38,7 +38,7 @@
 4. 已批量删除打开文件路径~
 
 <p align="center">
-  <img src="images/domo.png" alt="软件界面" width="80%"/>
+  <img src="images/demo.png" alt="软件界面" width="80%"/>
 </p>
 
 ## 🤗 代码编译
