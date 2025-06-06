@@ -36,6 +36,7 @@
 2. 选择模板页(即有要删除图片的页面)，默认第一页则回车
 3. 选择模板页中要删除的对象名，默认删除全部对象则回车
 4. 已批量删除打开文件路径~
+5. 随时按下 Ctrl+C 退出软件！
 
 <p align="center">
   <img src="images/demo.png" alt="软件界面" width="80%"/>
@@ -46,6 +47,7 @@
 pip install -r requirements.txt
 python code/PDF_PicKiller.py
 ```
+✨欢迎反馈BUG，后续会视情况添加新功能！（代码是晚上为了处理一个PDF文件临时写的，有问题非常欢迎反馈~）
 
 ## 鸣谢
 - [PDF Patcher](https://github.com/wmjordan/pdfpatcher)
