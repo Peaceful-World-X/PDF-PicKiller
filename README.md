@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/forks/Peaceful-World-X/PDF-PicKiller" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/Peaceful-World-X/PDF-PicKiller" alt="Stars"/>
   <img src="https://img.shields.io/github/issues/Peaceful-World-X/PDF-PicKiller" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/Peaceful-World-X/PDF-PicKiller" alt="License"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Peaceful-World-X.PDF-PicKiller" alt="Visitors"/>
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"/>
   <img src="https://img.shields.io/github/downloads/Peaceful-World-X/PDF-PicKiller/total" alt="Downloads"/>
 </p>
